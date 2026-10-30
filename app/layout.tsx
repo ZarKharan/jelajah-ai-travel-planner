@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Jelajah — AI Travel Planner",
-  description: "Rencanakan perjalanan Indonesia dengan itinerary yang personal, peta interaktif, dan estimasi biaya yang transparan."
+  title: "Jelajah — Smart Travel Experience",
+  description: "Temukan destinasi, rancang perjalanan personal, dan kumpulkan cerita bersama AI Travel Companion."
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
